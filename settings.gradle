@@ -1,1 +1,1 @@
-include ':app', ':android-activity-graphs'
+include ':android-simple', ':android-activity-graphs', ':simple'
